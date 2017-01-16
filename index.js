@@ -255,8 +255,8 @@ SideMenu.propTypes = {
 };
 
 SideMenu.defaultProps = {
-  toleranceY: 10,
-  toleranceX: 10,
+  toleranceY: 50,
+  toleranceX: 50,
   edgeHitWidth: 60,
   openMenuOffset: deviceScreen.width * 2 / 3,
   hiddenMenuOffset: 0,
